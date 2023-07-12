@@ -9,10 +9,16 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@thirdweb-dev/react": "^3.11.11",
+    "@thirdweb-dev/storage": "^1.1.2",
+    "axios": "^1.4.0",
+    "body-parser": "^1.20.2",
     "eslint": "8.40.0",
     "eslint-config-next": "13.4.2",
     "next": "13.4.2",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "react-hook-form": "^7.43.9",
+    "react-hot-toast": "^2.4.1"
   }
 }

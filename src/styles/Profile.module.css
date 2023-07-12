@@ -1,0 +1,14 @@
+.profile{display: flex;
+    align-content: stretch;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  .background{
+    color: burlywood;
+    height: 800px;
+  }
+  .card_img_top{
+    width: 200px;
+    height: 200px;
+
+}
